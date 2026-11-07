@@ -14,6 +14,7 @@ as of the "Last reviewed" date — always refresh before acting.
 |---|---|---|---|---|
 | MAS Financial Services (NSE: MASFIN) | 🟢 BUY / ADD | Add using proceeds from portfolio trim; then re-evaluate after Q3 FY27 results | Late Jan / Feb 2027 (Q3 FY27 results) | 7-Nov-2026 |
 | Aavas Financiers (NSE: AAVAS) | 🟢 BUY / 🟡 REVIEW | Buy at current low valuation; review growth under CVC after Q3 FY27 results | Late Jan / Feb 2027 (Q3 FY27 results) | 7-Nov-2026 |
+| Jio Financial Services (NSE: JIOFIN) | 🔵 HOLD | Hold existing shares; don't add until profit starts growing | Mid-Jan 2027 (Q3 FY27 results) | 7-Nov-2026 |
 
 ---
 
@@ -146,7 +147,33 @@ to banks. Controlled by **CVC Capital Partners** (48.9%) since 2024–25.
 
 ---
 
-## 3. Other stocks discussed (not yet on the action list)
+## 3. Jio Financial Services Ltd (NSE: JIOFIN · BSE: 543940)
+
+- **Status:** 🔵 HOLD — keep existing shares, don't add yet.
+- **Sector:** Financial-services holding company (Reliance group; listed Aug-2023) — lending, asset management, payments bank, insurance broking.
+- **Price when reviewed:** ₹231.2 (6-Nov-2026)
+- **Valuation:** P/E ~86× (trailing) · P/B ~1.1× · Dividend yield ~0.26%
+- **Growth score (portfolio review):** 6 / 10.
+- **Current holding:** Kailash Kumar Kedia — 50 shares @ ₹233.13; Asha Kedia — 150 shares, avg ₹245.32.
+
+### Positives
+- **Jio Credit** (lending) loan book ₹37,320 cr, +154% YoY (Q2 FY27).
+- **JioBlackRock** mutual fund AUM ₹22,746 cr within about a year of launch.
+- Huge Jio / Reliance customer base for distribution.
+- Very low leverage: borrowings ~₹41k cr vs ~₹1.3 lakh cr equity — room to grow without raising capital.
+
+### Risks
+- Profit flat for 3 years (FY24 ₹1,605 cr → FY26 ₹1,561 cr); Q2 FY27 profit ₹340 cr, −51% YoY.
+- Earnings lumpy — depend on dividend income from holdings.
+- ROE ~1%; P/E ~86× is expensive on current earnings.
+- Lending book is young and growing fast — credit quality untested through a cycle.
+
+### Re-evaluate
+After Q3 FY27 results: upgrade to BUY if profit grows on the back of lending/AMC income (not dividends) and Jio Credit asset quality stays clean.
+
+---
+
+## 4. Other stocks discussed (not yet on the action list)
 
 ### NBFC / housing-finance peers of MAS (discussed 7-Nov-2026, not analysed in depth)
 | Stock | Segment | 3-yr profit CAGR (FY23→26) | P/E (approx) | Note |
@@ -172,7 +199,7 @@ Full detail: Portfolio_Growth_Review.xlsx.
 | Verdict | Stocks |
 |---|---|
 | 🔵 KEEP | MAS Financial (8), Vedanta Aluminium (8), Engineers India (7), Uniparts (7), JSW Steel (7), SBI (7), HDFC AMC (7), Vedanta Ltd (7), Oil India (6), LIC (6) |
-| 🟡 HOLD | Jio Financial, Aavas (now 🟢 Buy/Review — see §2), CAMS, IRCTC, IOC, BPCL, PNB, NMDC, Tata Steel, HUL, Vedanta Power, Kwality Wall's, Vodafone Idea; IDBI (tender in Fairfax open offer) |
+| 🟡 HOLD | Jio Financial (see §3), Aavas (now 🟢 Buy/Review — see §2), CAMS, IRCTC, IOC, BPCL, PNB, NMDC, Tata Steel, HUL, Vedanta Power, Kwality Wall's, Vodafone Idea; IDBI (tender in Fairfax open offer) |
 | 🟠 TRIM 50% | REC, Coal India, HPCL, TCS, Yes Bank; Castrol (tender in Stonepeak open offer @ ₹194) |
 | 🔴 EXIT | Infosys, IRFC, Sterling Tools, Greenpanel, Prakash, NMDC Steel, Vedanta Oil & Gas, Vedanta Iron & Steel, Reliance Power, GVK, Zenith Steel |
 | ⚫ Zero value (delisted) | DHFL, Reliance Capital, Birla Power, IVRCL, Shree Ashtavinayak, Tulsi Extrusions |
