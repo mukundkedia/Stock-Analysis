@@ -193,7 +193,38 @@ to banks. Controlled by **CVC Capital Partners** (48.9%) since 2024–25.
 
 ---
 
-## 4. Other stocks discussed (not yet on the action list)
+## 4. REC Ltd (NSE: RECLTD · BSE: 532955)
+
+- **Status:** 🟠 TRIM 50% (portfolio review) — discussed 7-Nov-2026; no change requested.
+- **Sector:** Government-owned NBFC — infrastructure finance company for the power sector (subsidiary of PFC, which holds 52.63%; Maharatna PSU).
+- **Price when reviewed:** ₹297 (6-Nov-2026) · Market cap ~₹78,115 cr · 52-week ₹388 / ₹282
+- **Valuation:** P/E ~5.2× · P/B ~0.82× (book value ₹362) · Dividend yield ~6.2% (30% payout)
+- **Current holding:** Kailash — 200 shares (avg ~₹92 incl. bonus); Asha — 200 shares (avg ~₹99). Large gains (~+200%).
+
+### What the business does
+Lends to state power utilities (discoms, generation, transmission), central PSUs and private/renewable power projects; also infra & logistics. Funded by bonds (incl. 54EC capital-gain bonds), foreign borrowings and bank loans. Loan book ₹6.17 lakh cr (Sep-2026).
+
+### Positives
+- ROA ~2.6% (FY26, computed) — high for a wholesale lender; ROE ~20% (leverage ~7.7×).
+- Asset quality: GNPA 0.88% / NNPA 0.20% (Q3 FY26, latest found); state-government backing on most loans.
+- Very cheap: 5× earnings, below book, 6%+ dividend yield.
+- Pipeline: FY26 sanctions ₹4.09 lakh cr (+21%); Q2 FY27 disbursements ₹53.5k cr; loan book +5% QoQ; renewables book ₹75k cr (+30%).
+
+### Risks
+- Profit down YoY three quarters running (−22%, −6%, −21%); FY26 loan book only ~+3% (discom prepayments/refinancing).
+- NIM falling 3.43% → 3.22%; provision coverage fell ~72% → ~51%.
+- Concentration on financially weak state discoms; government policy/dividend demands.
+- Leverage ~5.6× D/E; FX/hedging losses.
+
+### Re-evaluate if
+Loan-book growth returns to 10–12% (guided) with profit growth turning positive → move back to HOLD/KEEP.
+
+### Sources
+- Screener: https://www.screener.in/company/RECLTD/consolidated/
+
+---
+
+## 5. Other stocks discussed (not yet on the action list)
 
 ### NBFC / housing-finance peers of MAS (discussed 7-Nov-2026, not analysed in depth)
 | Stock | Segment | 3-yr profit CAGR (FY23→26) | P/E (approx) | Note |
