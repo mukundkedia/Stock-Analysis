@@ -15,6 +15,7 @@ as of the "Last reviewed" date — always refresh before acting.
 | MAS Financial Services (NSE: MASFIN) | 🟢 BUY / ADD | Add using proceeds from portfolio trim; then re-evaluate after Q3 FY27 results | Late Jan / Feb 2027 (Q3 FY27 results) | 7-Nov-2026 |
 | Aavas Financiers (NSE: AAVAS) | 🟢 BUY / 🟡 REVIEW | Buy at current low valuation; review growth under CVC after Q3 FY27 results | Late Jan / Feb 2027 (Q3 FY27 results) | 7-Nov-2026 |
 | Jio Financial Services (NSE: JIOFIN) | 🔵 HOLD | Hold existing shares; don't add until profit starts growing | Mid-Jan 2027 (Q3 FY27 results) | 7-Nov-2026 |
+| REC Ltd (NSE: RECLTD) | 🟠 TRIM 50% | Sell half (100 shares in each account); keep half for ~6% dividend | End-Jan 2027 (Q3 FY27 results) | 8-Nov-2026 |
 
 ---
 
@@ -173,7 +174,53 @@ After Q3 FY27 results: upgrade to BUY if profit grows on the back of lending/AMC
 
 ---
 
-## 4. Other stocks discussed (not yet on the action list)
+## 4. REC Ltd (NSE: RECLTD · BSE: 532955)
+
+- **Status:** 🟠 TRIM 50% — sell half, keep half for the dividend; move back to HOLD if growth returns (see triggers).
+- **Sector:** Government-owned NBFC — Infrastructure Finance Company (NBFC-IFC), power-sector lender; subsidiary of PFC (52.63%); Maharatna; Public Financial Institution (issues 54EC bonds).
+- **Price when reviewed:** ₹297 (Screener, 8-Nov-2026) · Market cap ~₹78,180 cr · 52-week ₹388 / ₹282
+- **Valuation:** P/E ~5.2× · P/B ~0.82× (book value ₹362) · Dividend yield ~6.2% (≈30% payout)
+- **Growth score (portfolio review):** 3 / 10.
+- **Current holding:** Kailash Kumar Kedia — 200 shares (avg ~₹92 incl. bonus); Asha Kedia — 200 shares (avg ~₹99). Large long-term gains.
+- **Analyse with:** `.claude/skills/govt-infra-lenders` (plus `nbfc-analysis` basics).
+
+### What the business does
+Borrows cheaply (bonds incl. 54EC capital-gain bonds, foreign loans, bank loans) and lends to state power utilities (distribution, generation, transmission), central power PSUs, private and renewable power projects, and increasingly non-power infrastructure. Loan book ₹6.17 lakh cr (Sep-2026).
+
+### Positives
+- **High ROA for a wholesale lender:** ~2.6% (FY26, computed) thanks to tiny operating costs.
+- **Clean asset quality:** GNPA 0.88% / NNPA 0.20% (Dec-2025, latest found); Stage-2 loans down 80% YoY to ₹3,235 cr (Q2 FY27); most loans backed by state guarantees.
+- **Volumes recovering:** Q2 FY27 disbursements ₹53,541 cr (H1 ₹79,207 cr); loan book +5% QoQ; FY27 disbursement target ~₹2 lakh cr; sanctioned pipeline ~₹2.56 lakh cr (₹65–70k cr near disbursement — broker note).
+- **Diversifying:** renewables book ~₹75k cr (+30%), transmission, infra & logistics.
+- **Very cheap with high income:** 5× earnings, below book, ~6% dividend yield; net worth ₹94,325 cr (+14%).
+
+### Risks
+- **Profit falling:** down YoY three quarters running (−22%, −6%, −21%); Q2 FY27 PAT ₹3,478 cr (−21%); H1 −15%.
+- **Margin squeeze:** NIM 3.43% (FY26) → 3.22% (H1 FY27); higher funding costs; Motilal Oswal called Q2 an earnings miss.
+- **Weak FY26 growth:** loan book ~+3% as state discoms prepaid / refinanced with banks.
+- **Guidance only moderate:** ~10–12% loan growth (one report says cut to 10–11%).
+- **Provision coverage fell** ~72% → ~51%.
+- **Concentration** on financially weak state utilities; leverage ~7.7× assets/equity (ROE ~20% is mostly leverage); government ownership limits re-rating; FX/hedging losses.
+
+### Re-evaluation checklist (Q3 FY27 results, ~end-Jan 2027)
+| Check | Last value | Move back to HOLD if | Exit remaining half if |
+|---|---|---|---|
+| Loan-book growth | +5% QoQ (Q2); ~+3% FY26 | annualising ≥10% | < 5% YoY |
+| Profit growth YoY | −21% | turns positive | negative 2 more quarters |
+| NIM | 3.22% | stable ≥3.2% | < 3.0% |
+| Stage-2 / Stage-3 | ₹3,235 cr / 0.88% | stable or lower | GNPA > 2% |
+| Dividend yield | ~6.2% | ≥ 10-yr G-sec | dividend cut |
+
+### Sources
+- Screener: https://www.screener.in/company/RECLTD/consolidated/
+- Kotak Neo — Q2 FY27 results: https://www.kotakneo.com/news/stocks/rec-q2-fy-27-results-share-price-in-focus/
+- PSU Connect — H1 FY27: https://www.psuconnect.in/financial/rec-q2-results-profit-hits-7541-cr
+- Daily Pioneer — AUM growth Q2 FY27: https://dailypioneer.com/india/rec-records-strong-aum-growth-of-rs-26537-crore-in-fy-q2-2027
+- Motilal Oswal result update (29-Oct-2026): https://investmentguruindia.com/editorial/uploads/news-pdf/eaa9be51_RECL-20261029-MOFSL-RU-PG014.pdf
+
+---
+
+## 5. Other stocks discussed (not yet on the action list)
 
 ### NBFC / housing-finance peers of MAS (discussed 7-Nov-2026, not analysed in depth)
 | Stock | Segment | 3-yr profit CAGR (FY23→26) | P/E (approx) | Note |
@@ -200,7 +247,7 @@ Full detail: Portfolio_Growth_Review.xlsx.
 |---|---|
 | 🔵 KEEP | MAS Financial (8), Vedanta Aluminium (8), Engineers India (7), Uniparts (7), JSW Steel (7), SBI (7), HDFC AMC (7), Vedanta Ltd (7), Oil India (6), LIC (6) |
 | 🟡 HOLD | Jio Financial (see §3), Aavas (now 🟢 Buy/Review — see §2), CAMS, IRCTC, IOC, BPCL, PNB, NMDC, Tata Steel, HUL, Vedanta Power, Kwality Wall's, Vodafone Idea; IDBI (tender in Fairfax open offer) |
-| 🟠 TRIM 50% | REC, Coal India, HPCL, TCS, Yes Bank; Castrol (tender in Stonepeak open offer @ ₹194) |
+| 🟠 TRIM 50% | REC (see §4), Coal India, HPCL, TCS, Yes Bank; Castrol (tender in Stonepeak open offer @ ₹194) |
 | 🔴 EXIT | Infosys, IRFC, Sterling Tools, Greenpanel, Prakash, NMDC Steel, Vedanta Oil & Gas, Vedanta Iron & Steel, Reliance Power, GVK, Zenith Steel |
 | ⚫ Zero value (delisted) | DHFL, Reliance Capital, Birla Power, IVRCL, Shree Ashtavinayak, Tulsi Extrusions |
 
